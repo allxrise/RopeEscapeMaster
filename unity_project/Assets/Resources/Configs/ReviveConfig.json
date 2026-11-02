@@ -1,0 +1,50 @@
+{
+    "Time" : {
+        "reviveConfig": {
+            "type": 1,
+            "discountInfo1": "0,0.5,0.8",
+            "discountInfo2": "0,0.8",
+            "discountInfo3": "0",
+            "diamondBalance": 50000,
+            "maxReviveNum": 3,
+            "unlockStage": 100
+        },
+        "reviveConfigIAP": {
+            "type": 1,
+            "discountInfo1": "0,0.5,0.8",
+            "discountInfo2": "0,0.8",
+            "discountInfo3": "",
+            "diamondBalance": 50000,
+            "maxReviveNum": 1,
+            "unlockStage": 100
+        }
+    },
+    "Slot" : {
+        "reviveConfig": {
+            "type": 1,
+            "discountInfo1": "0,0.5,0.8",
+            "discountInfo2": "0,0.8",
+            "discountInfo3": "0",
+            "diamondBalance": 50000,
+            "maxReviveNum": 3,
+            "unlockStage": 100
+        },
+        "reviveConfigIAP": {
+            "type": 1,
+            "discountInfo1": "0,0.5,0.8",
+            "discountInfo2": "0,0.8",
+            "discountInfo3": "",
+            "diamondBalance": 50000,
+            "maxReviveNum": 1,
+            "unlockStage": 100
+        }
+    },
+    "Extra" : {
+        "timeLv" : 100,
+        "timeAd1" : 2,
+        "timeAd2" : 10000,
+        "slotLv" : 100,
+        "slotAd1" : 2,
+        "slotAd2" : 10000
+    }
+}

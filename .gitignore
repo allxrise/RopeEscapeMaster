@@ -1,0 +1,23 @@
+# Unity generated folders
+unity_project/[Ll]ibrary/
+unity_project/[Tt]emp/
+unity_project/[Oo]bj/
+unity_project/[Bb]uild/
+unity_project/[Bb]uilds/
+unity_project/[Ll]ogs/
+unity_project/[Uu]ser[Ss]ettings/
+
+# Extracted raw APK dump & temporary reverse-engineering artifacts
+apk_extracted/
+il2cpp_out/
+*.apk
+*.aab
+*.dex
+*.so
+
+# OS / IDE files
+.DS_Store
+*.csproj
+*.sln
+.vs/
+.idea/

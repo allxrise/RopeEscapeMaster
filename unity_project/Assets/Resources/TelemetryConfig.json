@@ -1,0 +1,12 @@
+{
+  "endpointUrl": "http://127.0.0.1:8080/api/v1/telemetry/batch",
+  "apiKey": "first-party-dev-key",
+  "appId": "com.firstparty.rope.escape",
+  "environment": "production-offline-ready",
+  "enableTelemetry": true,
+  "enableNetworkFlush": false,
+  "persistOfflineQueue": true,
+  "batchSize": 20,
+  "flushIntervalSeconds": 15.0,
+  "maxQueueSize": 1000
+}

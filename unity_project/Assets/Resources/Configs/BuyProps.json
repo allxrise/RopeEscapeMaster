@@ -1,0 +1,44 @@
+[
+   {
+        "Prop_Id": 10011,
+        "Prop_Name": "FREEZE",
+		"Prop_Desc": "Freeze the time for a short period!",
+        "Price_Info": { "Coin": 600, "Num": 1 }
+    },
+    {
+        "Prop_Id": 10012,
+        "Prop_Name": "AXE",
+		"Prop_Desc": "Tap any rope to cut it!",
+        "Price_Info": { "Coin": 700, "Num": 1 }
+    },
+    {
+        "Prop_Id": 10013,
+        "Prop_Name": "VIP",
+		"Prop_Desc": "Move a car from the parking lot to the VIP parking space",
+        "Price_Info": { "Coin": 600, "Num": 1 }
+    },
+    {
+        "Prop_Id": 10014,
+        "Prop_Name": "SORT",
+		"Prop_Desc": "Arrange the passengers and fill the parked cars",
+        "Price_Info": { "Coin": 1000, "Num": 1 }
+    },
+    {
+        "Prop_Id": 20011,
+        "Prop_Name": "ROCKET",
+		"Prop_Desc": "Destroy unneeded items!",
+        "Price_Info": { "Coin": 1900, "Num": 3 }
+    },
+    {
+        "Prop_Id": 20012,
+        "Prop_Name": "CLOCK",
+		"Prop_Desc": "Start with extra time!",
+        "Price_Info": { "Coin":2900, "Num": 3 }
+    },
+    {
+        "Prop_Id": 20013,
+        "Prop_Name": "DISCO",
+		"Prop_Desc": "Randomly destroy the same items！",
+        "Price_Info": { "Coin": 2900, "Num": 3 }
+    }
+]

@@ -1,0 +1,68 @@
+[
+   {
+	  "ShapeId": 1,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":1,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":0,"Item2":3},{"Item1":1,"Item2":3}],
+	  "Position":{"x":0.5,"y":1.5}
+   },
+   {
+	  "ShapeId": 2,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":1,"Item2":0},{"Item1":2,"Item2":0},{"Item1":3,"Item2":0},{"Item1":1,"Item2":-1},{"Item1":3,"Item2":-1}],
+	  "Position":{"x":1.5,"y":-0.5}
+   },
+   {
+	  "ShapeId": 3,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":0,"Item2":3},{"Item1":1,"Item2":1},{"Item1":1,"Item2":3}],
+	  "Position":{"x":0.5,"y":1.5}
+   },
+   {
+	  "ShapeId": 4,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":1,"Item2":1},{"Item1":2,"Item2":1},{"Item1":3,"Item2":1}],
+	  "Position":{"x":1.5,"y":0.5}
+   },
+   {
+	  "ShapeId": 5,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":0,"Item2":3},{"Item1":1,"Item2":3}],
+	  "Position":{"x":0.5,"y":1.5}
+   },
+   {
+	  "ShapeId": 6,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":1,"Item2":0},{"Item1":2,"Item2":0},{"Item1":3,"Item2":0},{"Item1":3,"Item2":1}],
+	  "Position":{"x":1.5,"y":0.5}
+   },
+   {
+	  "ShapeId": 7,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":1,"Item2":1},{"Item1":2,"Item2":0},{"Item1":2,"Item2":1},{"Item1":2,"Item2":2}],
+	  "Position":{"x":1,"y":1}
+   },
+   {
+	  "ShapeId": 8,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":1,"Item2":0},{"Item1":2,"Item2":0},{"Item1":1,"Item2":1},{"Item1":0,"Item2":2},{"Item1":1,"Item2":2},{"Item1":2,"Item2":2}],
+	  "Position":{"x":1,"y":1}
+   },
+   {
+	  "ShapeId": 9,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":1,"Item2":1},{"Item1":2,"Item2":1},{"Item1":2,"Item2":0}],
+	  "Position":{"x":1,"y":0.5}
+   },
+    {
+	  "ShapeId": 10,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":1,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":1,"Item2":2}],
+	  "Position":{"x":0.5,"y":1}
+   },
+   {
+	  "ShapeId": 11,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":-1,"Item2":1},{"Item1":1,"Item2":1}],
+	  "Position":{"x":0,"y":1}
+   },
+   {
+	  "ShapeId": 12,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":1,"Item2":0},{"Item1":2,"Item2":0},{"Item1":1,"Item2":1},{"Item1":1,"Item2":2},{"Item1":1,"Item2":3}],
+	  "Position":{"x":1,"y":1.5}
+   },
+   {
+	  "ShapeId": 13,
+	  "Points": [{"Item1":0,"Item2":0},{"Item1":0,"Item2":1},{"Item1":0,"Item2":2},{"Item1":0,"Item2":3},{"Item1":-1,"Item2":3},{"Item1":1,"Item2":3}],
+	  "Position":{"x":0,"y":1.5}
+   }
+
+]

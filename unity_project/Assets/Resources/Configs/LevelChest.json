@@ -1,0 +1,162 @@
+[
+  {
+    "Chest_Id": 1,
+    "Level_Id": 9,
+    "Rewards": "99991|200,99993|900"
+  },
+  {
+    "Chest_Id": 2,
+    "Level_Id": 19,
+    "Rewards": "99991|100,10011|1"
+  },
+  {
+    "Chest_Id": 3,
+    "Level_Id": 29,
+    "Rewards": "99991|100,10013|1"
+  },
+  {
+    "Chest_Id": 4,
+    "Level_Id": 39,
+    "Rewards": "99991|200,10012|1"
+  },
+  {
+    "Chest_Id": 5,
+    "Level_Id": 49,
+    "Rewards": "99991|50,10013|1"
+  },
+  {
+    "Chest_Id": 6,
+    "Level_Id": 59,
+    "Rewards": "99991|100,10012|1"
+  },
+  {
+    "Chest_Id": 7,
+    "Level_Id": 69,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 8,
+    "Level_Id": 79,
+    "Rewards": "99991|50,10012|1"
+  },
+  {
+    "Chest_Id": 9,
+    "Level_Id": 89,
+    "Rewards": "99991|100,10013|1"
+  },
+  {
+    "Chest_Id": 10,
+    "Level_Id": 99,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 11,
+    "Level_Id": 109,
+    "Rewards": "99991|50,10012|1"
+  },
+  {
+    "Chest_Id": 12,
+    "Level_Id": 119,
+    "Rewards": "99991|50,10013|1"
+  },
+  {
+    "Chest_Id": 13,
+    "Level_Id": 129,
+    "Rewards": "99991|100,10014|1"
+  },
+  {
+    "Chest_Id": 14,
+    "Level_Id": 139,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 15,
+    "Level_Id": 149,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 16,
+    "Level_Id": 159,
+    "Rewards": "99991|50,10013|1"
+  },
+  {
+    "Chest_Id": 17,
+    "Level_Id": 169,
+    "Rewards": "99991|50,10012|1"
+  },
+  {
+    "Chest_Id": 18,
+    "Level_Id": 179,
+    "Rewards": "99991|100,10014|1"
+  },
+  {
+    "Chest_Id": 19,
+    "Level_Id": 189,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 20,
+    "Level_Id": 199,
+    "Rewards": "99991|50,10012|1"
+  },
+  {
+    "Chest_Id": 21,
+    "Level_Id": 209,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 22,
+    "Level_Id": 219,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 23,
+    "Level_Id": 229,
+    "Rewards": "99991|200"
+  },
+  {
+    "Chest_Id": 24,
+    "Level_Id": 239,
+    "Rewards": "99991|50,10013|1"
+  },
+  {
+    "Chest_Id": 25,
+    "Level_Id": 249,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 26,
+    "Level_Id": 269,
+    "Rewards": "99991|50,10014|1"
+  },
+  {
+    "Chest_Id": 27,
+    "Level_Id": 289,
+    "Rewards": "10011|1"
+  },
+  {
+    "Chest_Id": 28,
+    "Level_Id": 309,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 29,
+    "Level_Id": 329,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 30,
+    "Level_Id": 349,
+    "Rewards": "99991|50,20011|1"
+  },
+  {
+    "Chest_Id": 31,
+    "Level_Id": 369,
+    "Rewards": "99991|100"
+  },
+  {
+    "Chest_Id": 32,
+    "Level_Id": 399,
+    "Rewards": "99991|50,10013|1"
+  }
+]
