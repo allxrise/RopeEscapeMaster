@@ -25,7 +25,7 @@ namespace RopeEscape.Editor
                 PlayerSettings.bundleVersion = "1.0.0";
                 PlayerSettings.Android.bundleVersionCode = 1;
                 PlayerSettings.defaultInterfaceOrientation = UIOrientation.Portrait;
-                PlayerSettings.Android.minSdkVersion = AndroidSdkVersions.AndroidApiLevel24;
+                PlayerSettings.Android.minSdkVersion = AndroidSdkVersions.AndroidApiLevel26;
                 PlayerSettings.Android.targetSdkVersion = AndroidSdkVersions.AndroidApiLevelAuto;
 
                 PlayerSettings.SetScriptingBackend(NamedBuildTarget.Android, ScriptingImplementation.IL2CPP);
